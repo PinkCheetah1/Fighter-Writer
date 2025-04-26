@@ -1,0 +1,14 @@
+
+
+
+Typing/wordcount logic
+- need to check to see if page has typing input box. Maybe check with user to make sure is correct page...? 
+    if has typing input boxes, count ALL boxes and allow user to fight
+    if has no typing input boxes, don't let user fight, but still let them adjust settings
+    Maybe need information spot letting user know if page has typing input spaces?
+    Start with simple wordcount counter
+    chrome.tabs.onUpdate.addListener (view current tab?)
+- START with just Docs. 
+    Check to see if page is a google doc 
+    When we fight, save that page as the current page? 
+- What do if we lose the tab/typing box? Pause, send message

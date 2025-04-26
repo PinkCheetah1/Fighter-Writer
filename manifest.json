@@ -1,5 +1,10 @@
 {
+    "manifest_version": 3,
     "name": "Writer Fighter",
+    "version": "1.0",
     "description": "A game-ified writing productivity tool",
-    "version": "1.0"
+    "permission": ["storage", "tabs"],
+    "action": {
+      "default_popup": "popup.html"
+    }   
 }

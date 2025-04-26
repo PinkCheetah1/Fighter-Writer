@@ -3,7 +3,14 @@ Writer Fighter is a chrome-based extension for writers that game-ifies typing in
 
 This idea is based off of a previous open-source project which can be found [here](https://github.com/cerey/fighters-block)
 
-# Work to do: 
+# Current steps:
+[] Simple word count tracker
+- [] find input box on each page
+- [] display current word count in popup when clicked
+
+[] 
+
+# Features: 
 [] pop-up
 - [] fighter select
 - [] enemy select
@@ -23,6 +30,7 @@ This idea is based off of a previous open-source project which can be found [her
 - [] win and loss cases
 other
 - [] save data
+- [] extension settings
 - [] account? 
 - [] level up
 - [] unlock bosses and settings
@@ -31,3 +39,4 @@ other
 - [] progress calendar
 - [] themes (both for fighter writer and docs)
 - [] adjust for light/dark modes
+- [] total words written counter <3
